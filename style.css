@@ -5,13 +5,14 @@ html, body{
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	width: 100%;
+	width: 105%;
 }
 
 .intro{
 	height:100%;
 	width: 100%;
-	margin: auto;
+	margin-left: -10px;
+	margin-right: -10px;
 	background: url(background.png) no-repeat center center fixed;
 	     -webkit-background-size: cover;
   		 -moz-background-size: cover;
